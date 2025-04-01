@@ -1,7 +1,6 @@
 syntax on
 filetype on
 set noswapfile
-set cursorcolumn
 set number
 set expandtab
 set tabstop=4
