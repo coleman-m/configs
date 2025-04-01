@@ -1,4 +1,5 @@
 # .bashrc
+# download with command:  curl -o .bashrc https://raw.githubusercontent.com/coleman-m/configs/refs/heads/main/.bashrc
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
