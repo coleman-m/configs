@@ -1,3 +1,4 @@
+" download with command:  curl -o .vimrc https://raw.githubusercontent.com/coleman-m/configs/refs/heads/main/.vimrc
 syntax on
 filetype on
 set noswapfile
