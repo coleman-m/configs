@@ -1,5 +1,4 @@
 #!/bin/bash
-# .bashrc
 # download with command:  curl -o .profile https://raw.githubusercontent.com/coleman-m/configs/refs/heads/main/.profile
 
 # Source global definitions
