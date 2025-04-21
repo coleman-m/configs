@@ -1,3 +1,4 @@
+# Download with command: curl -o ~/.config/starship.toml https://raw.githubusercontent.com/coleman-m/configs/refs/heads/main/starship.toml
 [aws]
 symbol = "  "
 
